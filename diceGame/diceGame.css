@@ -90,22 +90,11 @@ button:active{
 #player1 > img, #player2 > img{
     width: 9em;
     height: 9em;
-    border: var(--border);
 }
-
-/* #player1 > img{
-    animation: xAxis1 2100ms forwards;
-
-} */
 
 .dice1Animation{
     animation: xAxis1 2100ms forwards;
 }
-
-/* #player2 > img{
-    animation: xAxis2 2300ms forwards;
-
-} */
 
 .dice2Animation{
     animation: xAxis2 2350ms forwards;
