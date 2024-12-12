@@ -34,7 +34,7 @@ rollButton.addEventListener( 'click', ()=>{
             } else {
                 announcement.textContent = 'Draw!!';
             }
-          }, 2800)
+          }, 2500)
 
 
 
